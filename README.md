@@ -1,4 +1,4 @@
-# Green-Pepper-AI-Research
+# GreenPepper-AI-Research
 Welcome to the AI Resources Repository, your one-stop destination for all things related to artificial intelligence (AI)! This repository compiles a curated list of links to various AI tools, platforms, expert profiles, startups, regulations, insights, news, and company announcements. Whether you're an AI enthusiast, researcher, developer, or business professional, you'll find valuable resources here to stay updated and informed about the latest advancements and trends in AI.
 
 <h2>Key Features</h2>
